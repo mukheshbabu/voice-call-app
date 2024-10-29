@@ -7,6 +7,7 @@ A web-based Voice Call Application enabling real-time, secure, and high-quality 
 - **Secure and Private**: End-to-end encryption for user privacy.
 - **Cross-Platform**: Works seamlessly on all major web browsers.
 
+<!--
 ## Technology Stack
 - **Frontend**: React.js
 - **Real-Time Communication**: WebRTC
@@ -16,6 +17,7 @@ A web-based Voice Call Application enabling real-time, secure, and high-quality 
 
 ### Prerequisites
 - **Node.js** and **npm** installed
+-->
 
 ### Installation
 
