@@ -1,13 +1,13 @@
 # Voice Call Application Web
 
-A web-based Voice Call Application enabling real-time, secure, and high-quality voice communication between users through an intuitive interface. Built with WebRTC, Node.js, and React.
+A web-based Voice Call Application enabling real-time, secure, and high-quality voice communication between users through an intuitive interface. Built with React.
 
+<!--
 ## Features
 - **Real-Time Voice Communication**: Clear and low-latency calls.
 - **Secure and Private**: End-to-end encryption for user privacy.
 - **Cross-Platform**: Works seamlessly on all major web browsers.
 
-<!--
 ## Technology Stack
 - **Frontend**: React.js
 - **Real-Time Communication**: WebRTC
