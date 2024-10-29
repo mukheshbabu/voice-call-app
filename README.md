@@ -38,6 +38,7 @@ A web-based Voice Call Application enabling real-time, secure, and high-quality 
 5. Open your browser and go to http://localhost:3000 to access the application.
 
 
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software in compliance with the license terms. See the [LICENSE](LICENSE) file for more details.
 
-You can replace `https://github.com/your-username/voice-call-app.git` with the actual URL of your repository. This version provides clear sections and styled code blocks for better readability. Let me know if there’s anything else you’d like to add!
 
