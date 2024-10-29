@@ -9,17 +9,35 @@ A web-based Voice Call Application enabling real-time, secure, and high-quality 
 
 ## Technology Stack
 - **Frontend**: React.js
-- **Backend**: Node.js with Express
 - **Real-Time Communication**: WebRTC
-- **Database** (optional): MongoDB for session tracking and user data
+- **Build Tool**: Vite
 
 ## Getting Started
 
 ### Prerequisites
 - **Node.js** and **npm** installed
-- **MongoDB** (optional, if using for user data)
 
 ### Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/voice-call-app.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd voice-call-app
+
+3. Install dependencies:
+   ```bash
+   npm install
+
+4. Start the application:
+   ```bash
+   npm run dev
+
+5. Open your browser and go to http://localhost:3000 to access the application.
+
+
+
+You can replace `https://github.com/your-username/voice-call-app.git` with the actual URL of your repository. This version provides clear sections and styled code blocks for better readability. Let me know if there’s anything else you’d like to add!
+
